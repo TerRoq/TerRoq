@@ -3,9 +3,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
-[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
 [<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 <!--
 **TerRoq/TerRoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
