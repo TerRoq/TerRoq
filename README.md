@@ -2,9 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerRoq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   <img src="https://github-readme-stats.vercel.app/api?username=TerRoq&show_icons=true&include_all_commits=true&show_icons=true&title_color=eebbae&icon_color=eebbae&text_color=16bb9a&bg_color=330e3b" alt="My Stats" />
-[<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 <!--
 **TerRoq/TerRoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
