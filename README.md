@@ -7,6 +7,6 @@
 
 <div id="badges">
   <a href"https://t.me/Shicheebykay">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.m.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3ATelegram_logo.svg&psig=AOvVaw0FKRCOnNjZRzSSv3fZozDh&ust=1711820602418000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiotNWCmoUDFQAAAAAdAAAAABAE)" alt="LinkedIn Badge"/>
   </a>
 <div/>
