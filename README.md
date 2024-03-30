@@ -4,7 +4,7 @@
     <img src="https://skillicons.dev/icons?i=java,python,,С#,&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,,&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,rider&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=sql,Mysql&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=sql,Mysql&theme=dark" />
 </div>
 <div align="center" id="macropower-title"> 
   <img src="https://github-readme-stats.vercel.app/api?username=TerRoq&show_icons=true&include_all_commits=true&show_icons=true&title_color=eebbae&icon_color=eebbae&text_color=16bb9a&bg_color=330e3b" alt="My Stats" />
