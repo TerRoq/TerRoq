@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,py,cs,&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,rider&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,rider,visualstudio&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" /><br>
 </div>
 <div align="center" id="macropower-title"> 
