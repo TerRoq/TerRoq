@@ -1,8 +1,8 @@
 
 <h1 align="center" id="macropower-title">:wave: Hello there, I'm TerRoo</h1>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=java,py,cs&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,rider,visualstudio&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" /><br>
 </div>
